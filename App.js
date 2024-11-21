@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const heading = React.createElement(
     "h1",
     { id: "heading" },
-    "Hello World from React"
+    "Hello World from Reacts"
   );
   console.log(parent);
   const root = ReactDOM.createRoot(document.getElementById("root"));
